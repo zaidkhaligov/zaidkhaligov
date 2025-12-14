@@ -24,7 +24,7 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 ---
 
 ### 📂 Projects
-- [Binary Classification with SGD](https://github.com/zaidkhaligov/binary-classifier-sgd) — Implemented a binary classifier from scratch using stochastic gradient descent (SGD) in Python and NumPy. Classified two types of 2D data points, tracked training loss, and visualized decision boundaries with Matplotlib. Demonstrates understanding of iterative optimization and real-world ML workflow.
+- [Binary Classification with SGD](https://github.com/zaidkhaligov/SGD-Binary-Classification-from-Scratch-) — Implemented a binary classifier from scratch using stochastic gradient descent (SGD) in Python and NumPy. Classified two types of 2D data points, tracked training loss, and visualized decision boundaries with Matplotlib. Demonstrates understanding of iterative optimization and real-world ML workflow.
 - [Binary Classification from Scratch (using linear regression model)](https://github.com/zaidkhaligov/Linear-Regression-model-binary-classification-from-scratch-) — Implemented a linear classifier using Python and NumPy to classify two types of 2D data points. Visualized decision boundaries with Matplotlib. Demonstrates gradient-based updates and understanding of ML from scratch.
 
 ---
