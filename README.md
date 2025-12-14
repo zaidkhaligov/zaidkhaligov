@@ -1,4 +1,4 @@
-# Hi, I'm Zaid ![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+# Hi, I'm Zaid,🫥
 Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scratch
 
 ---
@@ -44,3 +44,4 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidkhaligov&show_icons=true&theme=radical)
+![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
