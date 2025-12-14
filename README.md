@@ -1,4 +1,4 @@
-# Hi, I'm Zaid 👋
+# Hi, I'm Zaid ![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scratch
 
 ---
