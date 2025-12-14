@@ -24,7 +24,7 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 ---
 
 ### 📂 Projects
-- [Binary Classification from Scratch](https://github.com/zaidkhaligov/binary-classifier) — Implemented a linear classifier using Python and NumPy to classify two types of 2D data points. Visualized decision boundaries with Matplotlib. Demonstrates gradient-based updates and understanding of ML from scratch.
+- [Binary Classification from Scratch](https://github.com/zaidkhaligov/Linear-Regression-model-binary-classification-from-scratch-) — Implemented a linear classifier using Python and NumPy to classify two types of 2D data points. Visualized decision boundaries with Matplotlib. Demonstrates gradient-based updates and understanding of ML from scratch.
 
 ---
 
