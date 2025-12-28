@@ -44,5 +44,5 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 ---
 
 ### 📊 Metrics
-![Metrics](https://github.com/zaidkhaligov/zaidkhaligov/blob/main/github-metrics.svg)
+
 ![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
