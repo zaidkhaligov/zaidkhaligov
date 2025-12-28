@@ -43,6 +43,6 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zaidkhaligov&show_icons=true&theme=radical&count_private=true)
+### 📊 Metrics
+![Metrics](https://github.com/zaidkhaligov/zaidkhaligov/blob/main/github-metrics.svg)
 ![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
