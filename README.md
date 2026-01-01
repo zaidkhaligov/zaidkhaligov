@@ -39,7 +39,7 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 ### 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:halygovzaid848@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zaidkhaligov)
-[![Instagram](https://img.shields.io/badge/Instagram-%40zaidkhaligov-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spittingbloodintomug)
+[![Instagram](https://img.shields.io/badge/Instagram-%40spittingbloodintomug-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spittingbloodintomug)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidkhaligov)
 
 ---
