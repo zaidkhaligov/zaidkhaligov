@@ -18,6 +18,7 @@ Machine Learning Engineer | Competitive Programmer | Python, NumPy, ML from scra
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F8766D?style=flat&logo=matplotlib&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-24A19C?style=flat&logo=sympy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
